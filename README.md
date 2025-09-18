@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://github.com/haticecan37/pi-platform-docs.git-
 https://github.com/haticecan37/pi-platform-docs.git
-haticecan1606@outlook.com.tr<!---
+haticecan1606@icloud.com<!---
 haticecan37/haticecan37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
