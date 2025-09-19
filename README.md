@@ -12,7 +12,7 @@
 
 - 👩‍🍳 Restoran müdürüyüm.
 - 💻 Kod yazmayı öğrenmeye çalışıyorum.
-- 🧠 Özellikle çok yorgun olduğumda kodla uğraşmak bana iyi geliyor ve rahatlatıyorum.
+- 🧠 Özellikle çok yorgun olduğumda kodla uğraşmak bana iyi geliyor ve rahatlıyorum.
 - 🚀 Hobi olarak başladığım bu yolculukta yeni teknolojiler keşfetmeyi seviyorum.
 
 ## 🧰 Kullandığım ve Öğrendiğim Teknolojiler
